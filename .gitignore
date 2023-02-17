@@ -4,5 +4,6 @@ env
 *.html
 *.json
 *.zip
+!conf/browsers.json
 __pycache__/
 __pycache__
